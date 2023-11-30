@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @fossorier
-- 🌱 I’m currently learning NLP
+- 🌱 I’m working on morality analysis for my master thesis at ESCP Business School
 - 📫 How to reach me benjamin.fossorier@edu.escp.eu
+
+My code was written in collaboration with Paul Chupot. 
 
 :) 
 
